@@ -1,7 +1,7 @@
 # Snake game written in Chez Scheme
 
 # dependencies
-The only dependency that's actually needed, other than [Chez Scheme itslef](https://github.com/cisco/ChezScheme/) is
+The only dependency that's actually needed, other than [Chez Scheme itself](https://github.com/cisco/ChezScheme/) is
 [chez-ncurses](https://github.com/akce/chez-ncurses).
 
 # Running the game 

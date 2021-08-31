@@ -127,7 +127,7 @@
 			        apple-l new-direction)))))
 
 ;;sets the random seed
-(random-seed (random 23726423))
+(random-seed (time-second (current-time)))
 ;;starts ncurses mode
 (define win (initscr))
 (assert (equal? win stdscr))
